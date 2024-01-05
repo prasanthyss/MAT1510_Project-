@@ -1,6 +1,6 @@
 # Mutual Information in Continual Learning
 
-This project was done as part of the Deep Learning: Theory and Data Science at the University of Toronto by Nathan Gurrin-Simth and Prasanth YSS.
+This project was done as part of the Deep Learning: Theory and Data Science course at the University of Toronto by Nathan Gurrin-Simth and Prasanth YSS.
 
 Continual learning problems are an important task for many real-world situations. In continual learning, models
 are updated rather than retrained when new data comes along. Such an approach can be computationally more
